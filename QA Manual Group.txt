@@ -1,2 +1,3 @@
 Start QA Manual training 03.12.2024.
 We are learning a Git program
+Hello world
